@@ -1,0 +1,23 @@
+{
+  "name": "adpt.store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve src/static",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/specialistvlad/adpt.store.git"
+  },
+  "author": "Vladyslav Kazantsev <specialistvlad@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/specialistvlad/adpt.store/issues"
+  },
+  "homepage": "https://github.com/specialistvlad/adpt.store#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
